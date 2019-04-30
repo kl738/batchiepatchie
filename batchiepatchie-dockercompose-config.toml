@@ -1,6 +1,6 @@
 host = "0.0.0.0"
 port = 5454
-region = "us-west-2"
+region = "us-east-1"
 database_host = "postgres"
 database_port = 5432
 database_username = "postgres"
